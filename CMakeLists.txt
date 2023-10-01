@@ -115,3 +115,5 @@ else()
   endif()
 endif()
 
+add_subdirectory(test)
+
